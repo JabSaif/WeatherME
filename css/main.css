@@ -1,0 +1,6 @@
+body{background-image: url("../img/weather.jpg");background-position: 0px 0px; background-repeat: no-repeat; background-size: 100%}
+.main {margin-top: 5%}
+.temp {margin-top: 4%;}
+.date {position: relative; top: 15%;}
+.country {position: relative; top: 30%;}
+.city {position: relative; top: 40%;}
